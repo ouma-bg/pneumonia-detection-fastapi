@@ -1,0 +1,8 @@
+archive/
+model/
+logs/
+__pycache__/
+*.pyc
+streamlit/uploads/
+streamlit/__pycache__/
+fastapi_app/__pycache__/
